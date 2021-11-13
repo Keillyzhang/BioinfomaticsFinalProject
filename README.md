@@ -10,6 +10,7 @@ Spread of avian pathogenic Escherichia coli ST117 O78:H4 in Nordic broiler produ
 
 ### IMAGE
 E. Coli - Scanning electron micrograph of Escherchia coli (E. coli). 
+![](https://github.com/Keillyzhang/BioinfomaticsFinalProject/blob/main/E.coli_image.png)
 
 
 
